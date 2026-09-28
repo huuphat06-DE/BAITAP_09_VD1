@@ -17,4 +17,4 @@ Tài khoản mặc định:
 - **Email**: `user01@gmail.com`
 - **Mật khẩu**: `123456`
 
-*(Lưu ý: Có thể sử dụng Username hoặc Email ở Ví dụ 2 để đăng nhập đều được).*
+
